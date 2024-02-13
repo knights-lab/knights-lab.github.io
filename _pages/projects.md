@@ -47,17 +47,17 @@ QIIME is a large, complex software pipeline with many contributors, led by the l
 SourceTracker uses Bayesian statistics to predict the source of microbial communities in a set of input samples (i.e., the sink samples). See some uses of SourceTracker for inspiration [here](https://scholar.google.com/scholar?cites=4177367334620506079&as_sdt=5,24&sciodt=0,24&hl=en). SourceTracker development was led by Dr. Knights. Download the latest version from the [Github repo](https://github.com/danknights/sourcetracker). Read a tutorial and more at [qiime.org](http://qiime.org/tutorials/source_tracking.html). Citation: Knights D, Kuczynski J, Charlson E, Zaneveld J, Collman RG, Bushman FD, Knight R, Kelley ST. (2011). Bayesian community-wide microbial source tracking. Nature Methods. 2011 Jul 17.
 
 ### Other software tools led by Gabe Al-Ghalith
-[aKronyMer](https://github.com/knights-lab/aKronyMer): De novo phylogeny and database-free metagenomic sample comparison and diversity calculation
-[BURST](https://github.com/knights-lab/BURST): Optimal short-read alignment for metagenomic shotgun and amplicon data
-[NINJA-OPS](https://github.com/knights-lab/NINJA-OPS): Heuristic short-read alignment for amplicon data
-[SHI7](https://github.com/knights-lab/shi7): Self-learning quality control for short-read (metagenomic) fastq sequence data
-[UTree](https://github.com/knights-lab/UTree): Heuristic short-read assignment for metagnomic shotgun and amplicon data
-[Kafan](https://github.com/knights-lab/kafan): Compression for biological sequence data faster and more efficient than gzip
-[EMBALMLETS](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): Miscellaneous tools for metagenomic sort-read processing: 
-[LLsim](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): short-read simulator with specific error control from multi-sequence fasta inputs
-[embalmulate](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): converter for burst/.b6 output into QIIME1 OTU table
-[bcov](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): coverage analyzer for burst/.b6 output
-[lingenome](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): prepares genomic database out of a folder of NCBI assemblies
-[t2gg/a2gg](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): taxonomy annotation toolkit for NCBI genome/gene assemblies
-[WRANGLr](https://github.com/GabeAl/WRANGLr): microbial coalition creation using Nei-Saitou-guided tree of pairwise feature recombination
-[Gabe's DBs](https://github.com/knights-lab/BURST/tree/master/embalmlets): pipeline to automate the creation of new amplicon, WGS, and gene databases from NCBI RefSeq representative sequences
+* [aKronyMer](https://github.com/knights-lab/aKronyMer): De novo phylogeny and database-free metagenomic sample comparison and diversity calculation
+* [BURST](https://github.com/knights-lab/BURST): Optimal short-read alignment for metagenomic shotgun and amplicon data
+* [NINJA-OPS](https://github.com/knights-lab/NINJA-OPS): Heuristic short-read alignment for amplicon data
+* [SHI7](https://github.com/knights-lab/shi7): Self-learning quality control for short-read (metagenomic) fastq sequence data
+* [UTree](https://github.com/knights-lab/UTree): Heuristic short-read assignment for metagnomic shotgun and amplicon data
+* [Kafan](https://github.com/knights-lab/kafan): Compression for biological sequence data faster and more efficient than gzip
+* [EMBALMLETS](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): Miscellaneous tools for metagenomic sort-read processing: 
+* [LLsim](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): short-read simulator with specific error control from multi-sequence fasta inputs
+* [embalmulate](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): converter for burst/.b6 output into QIIME1 OTU table
+* [bcov](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): coverage analyzer for burst/.b6 output
+* [lingenome](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): prepares genomic database out of a folder of NCBI assemblies
+* [t2gg/a2gg](https://github.com/knights-lab/BURST/tree/master/embalmlets/bin): taxonomy annotation toolkit for NCBI genome/gene assemblies
+* [WRANGLr](https://github.com/GabeAl/WRANGLr): microbial coalition creation using Nei-Saitou-guided tree of pairwise feature recombination
+* [Gabe's DBs](https://github.com/knights-lab/BURST/tree/master/embalmlets): pipeline to automate the creation of new amplicon, WGS, and gene databases from NCBI RefSeq representative sequences
