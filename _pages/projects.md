@@ -6,8 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Projects and Tools
-
 ## Sustainability
 ### Predicting per-ship maritime carbon emissions]
 Maritime shipping accounts for roughly 2% of all global carbon emissions from human activity, and rose 29% between 2015 and 2020. The roughly 30,000 ships that dock in the European Union in a given year are now required to report their efficiency (kilograms of CO2 per nautical mile), but the efficiency of most of the remaining 100k+ large ships remains undisclosed. We are developing a machine learning model that learns from ships with known efficiency to predict unknown efficiency on a per-ship basis using available ship metadata. The code can be seen here: <https://github.com/knights-lab/climate-trace-shipping>.
