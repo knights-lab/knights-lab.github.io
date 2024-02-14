@@ -1,10 +1,13 @@
 # main links links
 main:
+  - title: "People"
+    url: /people/
+
   - title: "Projects"
     url: /projects/
 
-  - title: "Data sets"
-    url: /datasets  
+  - title: "Datasets"
+    url: /datasets/  
 
   - title: "Contact"
     url: /contact/
