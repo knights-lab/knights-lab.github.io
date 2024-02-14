@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /datasets/
 title: "Datasets"
 author_profile: true
 ---
