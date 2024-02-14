@@ -4,7 +4,31 @@ title: "People"
 author_profile: true
 ---
 
+Table 1
+
+| a1 | b1 | c1 |
+| a2 | b2 | c2 |
+| a3 | b3 | c3 |
+
+
+Table 2
+
+|------|-----|-----|
+| a1 | b1 | c1 |
+| a2 | b2 | c2 |
+| a3 | b3 | c3 |
+|------|-----|-----|
+
+Table 3
+
 |---
+| a1 | b1 | c1 |
+| a2 | b2 | c2 |
+| a3 | b3 | c3 |
+|---
+
+
+
 | ![Dan Knights](/images/profile.png){:width="150px"}! | ## Dr. Dan Knights, Principal Investigator​
 | | Dr. Dan Knights is a data scientist and puzzle solver. He is an Associate Professor in the Department of Computer Science and Engineering and the Biotechnology Institute at the University of Minnesota. Dan received his B.A. from Middlebury College, and his Ph.D. from the University of Colorado, both in Computer Science, followed by a post-doctoral fellowship at Harvard. His research uses data mining and machine learning to better understand the natural world and the place of humans in it. This includes modeling the sustainability of various activities in modern civilization, and sharing that information in ways that help people and organizations change their behavior. Dan also researches the role of the microbiome in human disease, and has developed software for analyzing microbiome data. In 2015, Dan was named a McKnight Land-Grant Professor by the University of Minnesota. From 2016-2020, Dan was co-founder and CEO of CoreBiome, a genomics company that was acquired by OraSure, Inc. Dan received the 2019 Innovation Award from the University of Minnesota’s Office of the Vice President for Research together with Kenny Beckman and Daryl Gohl.
 |---
