@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Associate Professor of Computer Science at the University of Minnesota"
   location         : "Minnesota"
-  employer         :
+  employer         : "Department of Computer Science and Engineering, Biotechnology Institute" 
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=dan+knights%5BAuthor%5D&sort="
   googlescholar    : "https://scholar.google.com/citations?user=zTkLS_gAAAAJ&hl=en"
   email            : "dknights@umn.edu"
