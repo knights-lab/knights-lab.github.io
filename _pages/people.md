@@ -18,7 +18,7 @@ Dr. Dan Knights is a data scientist and puzzle solver. He is an Associate Profes
 
 Suzie is a Computer Science Ph.D. student, studying new methods in dimensionality reduction and longitudinal analysis, applying these and other machine learning methods to the human gut microbiome. Suzie assists with various projects, including the MAGIC study, where she explores the maturation of the infant gut microbiome. Suzie started with Knights Lab as a staff researcher for two years before beginning her Ph.D. Prior to joining the lab, Suzie conducted data visualization research and taught English in Linz, Austria as part of a Fulbright Award. Suzie received her B.A. in Mathematics from St. Olaf College.
 
-<hr>
+<br>
 
 # Past members
 ## Postdoctoral Associates
