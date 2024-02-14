@@ -315,9 +315,9 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 .mbtablestyle {
-        border-collapse: collapse;
-
+   border-collapse: collapse;
    > table, td, th {
         border: none;
         }
+   border: none;
 }
