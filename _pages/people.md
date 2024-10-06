@@ -10,6 +10,8 @@ author_profile: true
 
 I am a data scientist, a teacher, a puzzle solver, and an Associate Professor in the Department of Computer Science and Engineering and the Biotechnology Institute at the University of Minnesota. I received my B.A. from Middlebury College, and my Ph.D. from the University of Colorado, both in Computer Science, followed by a post-doctoral fellowship at Harvard. My research uses data mining and machine learning to better understand the natural world and the place of humans in it. My primary research focus has been studying the role of the microbiome in human disease, and developing software for analyzing metagenomics data. I have also done some analysis of the sustainability of various activities in modern civilization. In 2015, I was named a McKnight Land-Grant Professor by the University of Minnesota. From 2016-2020, I was co-founder and CEO of CoreBiome, a genomics company that was acquired by OraSure, Inc. I received the 2019 Innovation Award from the University of Minnesota’s Office of the Vice President for Research together with Kenny Beckman and Daryl Gohl. In 2023, I received the Bowers Faculty Teaching Award from the University of Minnesota College of Science and Engineering.
 
+Note: My lab is currently closed to new students and new research projects while I explore shifting my focus to teaching.
+
 <br>
 
 ## Suzie Hoops, Ph.D. Student
