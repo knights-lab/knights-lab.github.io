@@ -25,14 +25,14 @@ Suzie is a Computer Science Ph.D. student, studying new methods in dimensionalit
 * Dr. ABBY JOHNSON - Abby is Assistant Professor at the University of Minnesota School of Public Health.
 * Dr. JONATHAN CLAYTON - Jonathan is Assistant Professor at the University of Nebraska.
 * Dr. CHRISTOPHER McKINLAY - Chris is Principal Engineer on the Flight Controls Team at Kitty Hawk.
-* Dr. EMMANUEL MONTASSIER - Emmanuel is Associate Professor of Medicine at the University of Nantes, France.
-* Dr. ROBIN SHIELDS-CUTLER - Robin is an Assistant Professor at Macalester College.
-* Dr. TONYA WARD - Tonya is Director of Data Science & Bioinformatics at Diversigen.
+* Dr. EMMANUEL MONTASSIER - Emmanuel is Professor of Medicine at the University of Nantes, France.
+* Dr. ROBIN SHIELDS-CUTLER - Robin is a Associate Professor of Biology at Macalester College.
+* Dr. TONYA WARD - Tonya is Senior Director of Microbiome Data Science at Rebiotix (a Ferring Company).
 
 ## Doctoral Students
-* Dr. GABRIEL AL-GHALITH - Gabe is now working at Johnson and Johnson.
-* Dr. PAJAU (PJ) VANGAY - Pajau is currently a Scientific Community Engagement Manager for the National Microbiome Data Collaborative.
-* Dr. BENJAMIN HILLMANN - Ben is now a visiting professor at Macalester College.
+* Dr. GABRIEL AL-GHALITH - Gabe is  Vice President of Computational Biology at Holobiome
+* Dr. PAJAU (PJ) VANGAY - Pajau is Senior Director, Scientific Network, Hypothesis Fund.
+* Dr. BENJAMIN HILLMANN - Ben is Senior Data Scientist at Shipt.
 
 ## Staff Members
 * Cal Thoma
@@ -69,3 +69,4 @@ Suzie is a Computer Science Ph.D. student, studying new methods in dimensionalit
 * ARZENG SYED
 * SANGEITHA THAYALAN
 * GAVIN TURNER
+* DIMITRI TRIFUNAC
