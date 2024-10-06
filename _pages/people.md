@@ -26,7 +26,7 @@ Suzie is a Computer Science Ph.D. student, studying new methods in dimensionalit
 ## Postdoctoral Associates
 * Dr. ABBY JOHNSON - Abby is Assistant Professor at the University of Minnesota School of Public Health.
 * Dr. JONATHAN CLAYTON - Jonathan is Assistant Professor at the University of Nebraska.
-* Dr. CHRISTOPHER McKINLAY - Chris is Principal Engineer on the Flight Controls Team at Kitty Hawk.
+* Dr. CHRISTOPHER McKINLAY - Chris is Team Lead at Helm.ai.
 * Dr. EMMANUEL MONTASSIER - Emmanuel is Professor of Medicine at the University of Nantes, France.
 * Dr. ROBIN SHIELDS-CUTLER - Robin is a Associate Professor of Biology at Macalester College.
 * Dr. TONYA WARD - Tonya is Senior Director of Microbiome Data Science at Rebiotix (a Ferring Company).
